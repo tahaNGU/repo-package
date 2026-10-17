@@ -441,3 +441,4 @@ store.SetFault(func(op string) error {
 ## License
 
 MIT.
+# gocast
